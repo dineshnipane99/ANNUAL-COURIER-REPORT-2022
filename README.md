@@ -1,4 +1,4 @@
-                             **Courier Store Dashboard Annual Report 2022**
+                                   **Courier Store Dashboard Annual Report 2022**
 
 Overview:
 
@@ -31,11 +31,13 @@ Analyze Age and Gender Relationship:
 
 Identify Channels Contributing to Maximum Sales:
 
-        Use a bar chart to display sales contribution by channel and identify the channel with the highest sales.
+        Use a bar chart to display sales contribution by channel and identify 
+        the channel with the highest sales.
 
 Determine the Highest Selling Category:
 
-        Use a bar chart or pie chart to display sales contribution by category and identify the highest-selling category.
+        Use a bar chart or pie chart to display sales contribution by category 
+        and identify the highest-selling category.
 
 Data Cleaning and Processing:
 
@@ -47,15 +49,16 @@ Create a new column for age groups based on the provided formula.
 
 Sample Insight:
 
-            Women between the ages of 30-49 are the primary customers, with Maharashtra, Karnataka, and Uttar Pradesh being the top contributing states.
-
-        The most effective sales channels are Amazon, Flipkart, and Myntra.
+            Women between the ages of 30-49 are the primary customers, with Maharashtra, 
+            Karnataka, and Uttar Pradesh being the top contributing states.
+            The most effective sales channels are Amazon, Flipkart, and Myntra.
 
 Conclusion:
 
-          Target women customers aged 30-49 residing in Maharashtra, Karnataka, and Uttar Pradesh by offering targeted ads, 
-        promotions, and discounts on Amazon, Flipkart, and Myntra platforms. Tailoring marketing strategies to this demographic 
-        can potentially increase sales in 2023.
+          Target women customers aged 30-49 residing in Maharashtra, Karnataka, 
+          and Uttar Pradesh by offering targeted ads, promotions, and discounts on Amazon, Flipkart, 
+          and Myntra platforms. Tailoring marketing strategies to this demographic 
+          can potentially increase sales in 2023.
         
 ![image](https://github.com/dineshnipane99/ANNUAL-COURIER-REPORT-2022/assets/166678673/7c1937d5-2bfc-4991-a555-fa98df539fcc)
 
